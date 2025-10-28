@@ -81,20 +81,20 @@ Add your own branding!
 Want to get in touch or collaborate?
 Drop me a message via the Contact Form, or reach out on:
 
-GitHub: github.com/yourusername
+GitHub: github.com/rickCensor
 
 LinkedIn: linkedin.com/in/yourusername
 
 WhatsApp: wa.me/yourphonenumber
 
-Email: alex@example.com
+Email: sarpongderick13@gmail.com
 
 📄 License
 This project is licensed under the MIT License.
 
 Thank you for checking out my portfolio! If you find it inspiring or helpful, feel free to star ⭐ this repo, fork it, or use it as a template for your own site.
 
-Made with ❤️ by Alex Spencer
+Made with ❤️ by Derick Sarpong
 
 Let me know if you want any info customized, additional badges, or special sections!
 
