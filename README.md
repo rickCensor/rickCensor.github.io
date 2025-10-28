@@ -73,7 +73,11 @@ Want to get in touch or collaborate? Drop me a message via the contact form on t
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/rickCensor/rickCensor.github.io/blob/main/LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
+
+By contributing to this repository you agree to the project's Contributor License Agreement: see [CLA.md](./CLA.md).
+
+Copyright © 2023–2025 Derick Sarpong
 
 ---
 
