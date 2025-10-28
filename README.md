@@ -9,8 +9,6 @@ Showcasing my work, experience, and skills as a Full Stack Developer passionate 
 
 [Features](#features)
 
-[Screenshots](#screenshots)
-
 [Tech Stack](#tech-stack)
 
 [Getting Started](#getting-started)
@@ -36,8 +34,6 @@ Showcasing my work, experience, and skills as a Full Stack Developer passionate 
 
 🟢 Optimized for Accessibility and Performance
 
-🖼️ Screenshots
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900" width="600" alt="Hero Section" /> <img src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=900" width="600" alt="Projects Section" />
 ⚙️ Tech Stack
 HTML5 & CSS3
 
